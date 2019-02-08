@@ -12,6 +12,17 @@
 5. Push updates to GitHub                           git push origin master
 
 
+### Adding to lighthouse-Web Notes
+
+added this entire folder somehow - need ot clean up one day.
+
+** this was set up as http by accideny (replace one day) | have to sign in each time
+
+git push   (*not origin master*)
+
+
+
+
 
 ## Reading to continue to learn
 
