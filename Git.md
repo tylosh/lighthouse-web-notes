@@ -1,6 +1,6 @@
 #Background on Using GIT
 
-
+[Tyler](https://github.com/tylosh)
 
 
 ## Setting Up a New Repo
@@ -16,7 +16,7 @@
 
 added this entire folder somehow - need ot clean up one day.
 
-** this was set up as http by accideny (replace one day) | have to sign in each time
+**this was set up as http by accident (replace one day) | have to sign in each time**
 
 git push   (*not origin master*)
 
@@ -26,7 +26,12 @@ git push   (*not origin master*)
 
 ## Reading to continue to learn
 
--
+- what are GISTS: [link](https://web.compass.lighthouselabs.ca/activities/244)
+  - **be sure to add folder location at the end of the clone**
+
+- GIT cheat sheet [link](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
+
+- Git - the simple guide [link](http://rogerdudler.github.io/git-guide/)
 
 
 
